@@ -1,0 +1,19 @@
+hello don't try to push this file in my github.
+# Secret files
+.env
+secret_key.txt
+
+# Python garbage
+__pycache__/
+*.pyc
+
+# Node garbage
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+secret.txt
